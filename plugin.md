@@ -1,23 +1,15 @@
-# jquery_ui_1.12.1
-(請寫資料夾名)
+# 規範共用檔規則
 
->2018-10-22   
->(有更新請修改日期)
+### js套件統一放置路徑
 
-## 來源 / 公司內部開發者
-(下載來源，如果是自行開發的請註明開發者)  
-
-<https://jqueryui.com/>
-
-## 用途
-jQuery UI 是建立在 jQuery JavaScript 库上的一组用户界面交互、特效、小部件及主题。
-
-## 必要檔
-(需要引用哪些檔案才可以順利執行)
+```
+apps\statics\plugin
 
 ``` 
-jquery.js
-jquery-ui.css
-jquery-ui.js
 
-``` 
+## 套件規範
+
+* 新增套件一律請寫上版本
+* 按照範例 jquery_ui_1.12.1 的格式去新增
+* 最後請修改 plugin.md  方便他人查找使用
+
