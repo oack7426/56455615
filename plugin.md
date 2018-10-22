@@ -6,7 +6,7 @@
 ### 元件庫 component 
 (分類請自行新增)
 
-* jquery_ui_1.12.1
+>* jquery_ui_1.12.1
 (請寫資料夾名)
 
 ### 燈箱效果 lightbox
