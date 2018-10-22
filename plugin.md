@@ -1,16 +1,24 @@
-##  所有套件整理
->規範起始日 2018-10-19  
->參考分類  [網頁插件關鍵字速記表](https://drive.google.com/file/d/0B2e3VLlpmcU4aTlhdlhzTGgzVUE/view)
-
-
-### 元件庫 component 
-(分類請自行新增)
-
->* jquery_ui_1.12.1
+# 檔名
 (請寫資料夾名)
 
-### 燈箱效果 lightbox
+jquery_ui_1.12.1
 
-### 頁籤 tab
+## 來源
+(下載來源，如果是自行開發的請註明開發者)  
 
-### 幻燈片 carousel
+<https://jqueryui.com/>
+
+## 用途
+(大致描述用途)
+
+jQuery UI 是建立在 jQuery JavaScript 库上的一组用户界面交互、特效、小部件及主题。
+
+## 必要引用檔
+(需要引用哪些必要檔案才可以執行)
+
+``` 
+jquery-1.8.3.min.js
+A檔案
+B檔案
+
+``` 
