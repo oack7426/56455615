@@ -1,15 +1,21 @@
-# 規範共用檔規則
+###  所有套件整理
+>規範起始日 2018-10-19  
+>參考分類  [網頁插件關鍵字速記表](https://drive.google.com/file/d/0B2e3VLlpmcU4aTlhdlhzTGgzVUE/view)
 
-### js套件統一放置路徑
+>> 範例文件 : jquery_ui_1.12.1 
 
-```
-apps\statics\plugin
+##資料夾名 
+(請直接copy格式)
 
-``` 
+>更新日:   
+>用途:
+>必要檔: 
 
-## 套件規範
 
-* 新增套件一律請寫上版本
-* 按照範例 jquery_ui_1.12.1 的格式去新增
-* 最後請修改 plugin.md  方便他人查找使用
+## jquery_ui_1.12.1 (範例)
+
+>更新日:2018-10-22
+>用途:元件庫 
+>必要檔: jquery.js / jquery-ui.css / jquery-ui.js
+
 
