@@ -4,18 +4,21 @@
 
 >> 範例文件 : jquery_ui_1.12.1 
 
-##資料夾名 
+## 資料夾名 
 (請直接copy格式)
 
->更新日:   
->用途:
->必要檔: 
+>更新日:     
+>用途:  
+>必要檔:   
 
 
 ## jquery_ui_1.12.1 (範例)
 
->更新日:2018-10-22
->用途:元件庫 
->必要檔: jquery.js / jquery-ui.css / jquery-ui.js
+>更新日:2018-10-22  
+>用途:元件庫   
+>必要檔: jquery.js / jquery-ui.css / jquery-ui.js  
+
+
+
 
 
